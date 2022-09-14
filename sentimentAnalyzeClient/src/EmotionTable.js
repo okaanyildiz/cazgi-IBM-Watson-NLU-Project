@@ -5,6 +5,7 @@ class EmotionTable extends React.Component {
   render() {
     //Returns the emotions as an HTML table
     return (
+
       <div>
         <table className="table table-bordered">
           <tbody>

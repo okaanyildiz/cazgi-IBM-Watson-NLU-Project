@@ -10,6 +10,7 @@ class App extends React.Component {
   value of the state, will be returned. The initial input mode
   is set to text
   */
+
   state = {
     innercomp: <textarea rows="4" cols="50" id="textinput" />,
     mode: "text",
